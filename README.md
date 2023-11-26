@@ -26,7 +26,7 @@ This project is an update to a marketing agency website, ensuring it follows acc
 
 ## Accessibility Features
 ### Semantic HTML Elements
-HTML code is organized by using header, nav, main, section, aside, footer semantic elements.
+HTML code is organized by using header, nav, main, section, aside,article and footer semantic elements.
 
 ### Logical Structure
 Seperate CSS and HTML files to make it easier to manage styles and keeps HTML code file focused on the content structure.
