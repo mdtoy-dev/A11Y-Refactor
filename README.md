@@ -1,6 +1,8 @@
 # A11Y-Refactor
 Marketing Agency Website - Accessibility Update - https://mdtoy-dev.github.io/A11Y-Refactor/
 
+![Final Screenshot](/assets/images/finalss.png)
+
 ## Description
 
 This project is an update to a marketing agency website, ensuring it follows accessibility standards. The goal is to optimize the site for search engines by incorporating semantic HTML, a logical structure, accessible alt attributes, sequential heading order, and a concise, descriptive title.
